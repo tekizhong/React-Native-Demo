@@ -1,0 +1,18 @@
+PODS:
+  - Bugly (2.4.8)
+  - QBImagePickerController (3.4.0)
+  - RSKImageCropper (1.6.3)
+
+DEPENDENCIES:
+  - Bugly
+  - QBImagePickerController
+  - RSKImageCropper
+
+SPEC CHECKSUMS:
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  RSKImageCropper: 356e36fc58c57c371b5d8b23d603936d6a73df6c
+
+PODFILE CHECKSUM: ae46e5f665ca2f622f08c91343b9a26cc6d67f4d
+
+COCOAPODS: 1.2.1
